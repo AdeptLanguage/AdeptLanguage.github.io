@@ -1,0 +1,13 @@
+{
+    "name": "sailboat",
+    "version": "1.0.0",
+    "minSpecVersion": 1,
+    "host": "https://adeptlanguage.github.io/v1/sailboat/",
+    "procedure": [
+        {"folder": "assets"},
+        {"file": "assets/example_texture.png", "from": "assets/example_texture.png"},
+        {"file": "GameData.adept", "from": "GameData.adept"},
+        {"file": "Textures.adept", "from": "Textures.adept"},
+        {"file": "main.adept", "from": "main.adept"}
+    ]
+}

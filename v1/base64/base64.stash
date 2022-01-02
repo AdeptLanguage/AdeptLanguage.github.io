@@ -1,0 +1,10 @@
+{
+    "name": "base64",
+    "version": "1.0.0",
+    "minSpecVersion": 1,
+    "host": "https://adeptlanguage.github.io/v1/base64/base64/",
+    "procedure": [
+        {"folder": "base64"},
+        {"file": "base64/base64.adept", "from": "base64.adept"}
+    ]
+}

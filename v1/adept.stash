@@ -1,0 +1,12 @@
+{
+    "adept.stash": {
+        "minSpecVersion": 1,
+        "lastUpdated": 1623168511,
+        "latestCompilerVersion": "2.5"
+    },
+    "children": {
+        "box2d": "https://adeptlanguage.github.io/v1/box2d/box2d.stash",
+        "base64": "https://adeptlanguage.github.io/v1/base64/base64.stash",
+        "sailboat": "https://adeptlanguage.github.io/v1/sailboat/sailboat.stash"
+    }
+}

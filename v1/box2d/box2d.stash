@@ -1,0 +1,10 @@
+{
+    "name": "box2d",
+    "version": "2.4.1",
+    "minSpecVersion": 1,
+    "host": "https://adeptlanguage.github.io/v1/box2d/box2d/",
+    "procedure": [
+        {"folder": "box2d"},
+        {"file": "box2d/box2d.adept", "from": "box2d.adept"}
+    ]
+}
