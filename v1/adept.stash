@@ -2,7 +2,7 @@
     "adept.stash": {
         "minSpecVersion": 1,
         "lastUpdated": 1647279236,
-        "latestCompilerVersion": "2.6"
+        "latestCompilerVersion": "2.7"
     },
     "children": {
         "box2d": "https://adeptlanguage.github.io/v1/box2d/box2d.stash",
