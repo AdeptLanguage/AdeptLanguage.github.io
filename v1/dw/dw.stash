@@ -2,7 +2,7 @@
     "name": "dw",
     "version": "3.3.0",
     "minSpecVersion": 1,
-    "host": "https://github.com/iahung2/adept.dw/",
+    "host": "https://raw.githubusercontent.com/iahung2/adept.dw/main/",
     "procedure": [
         {"folder": "dw"},
         {"file": "dw/dw.adept", "from": "dw.adept"},
