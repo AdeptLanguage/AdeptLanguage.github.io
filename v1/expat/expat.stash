@@ -1,0 +1,11 @@
+{
+    "name": "expat",
+    "version": "2.5.0",
+    "minSpecVersion": 1,
+    "host": "https://raw.githubusercontent.com/iahung2/adept.expat/main/",
+    "procedure": [
+        {"folder": "expat"},
+        {"file": "expat/expat.adept", "from": "expat.adept"},
+        {"file": "expat/LICENSE", "from": "LICENSE"}
+    ]
+}
