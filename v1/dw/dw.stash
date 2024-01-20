@@ -1,0 +1,16 @@
+{
+    "name": "dw",
+    "version": "3.3.0",
+    "minSpecVersion": 1,
+    "host": "https://github.com/iahung2/adept.dw/",
+    "procedure": [
+        {"folder": "dw"},
+        {"file": "dw/dw.adept", "from": "dw.adept"},
+        {"file": "dw/dw_gtk.adept", "from": "dw_gtk.adept"},
+        {"file": "dw/dw_mac.adept", "from": "dw_mac.adept"},
+        {"file": "dw/dw_win32.adept", "from": "dw_win32.adept"},
+        {"file": "dw/dwib.adept", "from": "dwib.adept"},
+        {"file": "dw/LICENSE", "from": "LICENSE"},
+        {"file": "dw/LICENSE.dw", "from": "LICENSE.dw"}
+    ]
+}
