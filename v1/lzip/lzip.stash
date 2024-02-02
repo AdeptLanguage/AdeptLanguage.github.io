@@ -1,0 +1,11 @@
+{
+    "name": "lzip",
+    "version": "1.13.0",
+    "minSpecVersion": 1,
+    "host": "https://raw.githubusercontent.com/iahung2/adept.lzip/main/",
+    "procedure": [
+        {"folder": "lzip"},
+        {"file": "lzip/lzip.adept", "from": "lzip.adept"},
+        {"file": "lzip/LICENSE", "from": "LICENSE"}
+    ]
+}

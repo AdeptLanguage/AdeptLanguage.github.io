@@ -9,6 +9,8 @@
         "base64": "https://adeptlanguage.github.io/v1/base64/base64.stash",
         "sailboat": "https://adeptlanguage.github.io/v1/sailboat/sailboat.stash",
         "dw": "https://adeptlanguage.github.io/v1/dw/dw.stash",
+        "expat": "https://adeptlanguage.github.io/v1/expat/expat.stash",
+        "lzip": "https://adeptlanguage.github.io/v1/lzip/lzip.stash",
         "iconv": "https://adeptlanguage.github.io/v1/iconv/iconv.stash"
     }
 }
