@@ -1,0 +1,11 @@
+{
+    "name": "iconv",
+    "version": "1.17.0",
+    "minSpecVersion": 1,
+    "host": "https://raw.githubusercontent.com/iahung2/adept.iconv/main/",
+    "procedure": [
+        {"folder": "iconv"},
+        {"file": "iconv/iconv.adept", "from": "iconv.adept"},
+        {"file": "iconv/LICENSE", "from": "LICENSE"}
+    ]
+}
